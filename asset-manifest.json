@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.3e0d47cf.chunk.css",
+    "main.js": "/personal-website/static/js/main.1855506b.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.1855506b.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.c71e6253.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.c71e6253.js.map",
+    "static/js/2.a1807c71.chunk.js": "/personal-website/static/js/2.a1807c71.chunk.js",
+    "static/js/2.a1807c71.chunk.js.map": "/personal-website/static/js/2.a1807c71.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.d84378834c4b21eae6bf620fbc43fa20.js": "/personal-website/precache-manifest.d84378834c4b21eae6bf620fbc43fa20.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.3e0d47cf.chunk.css.map": "/personal-website/static/css/main.3e0d47cf.chunk.css.map",
+    "static/js/2.a1807c71.chunk.js.LICENSE": "/personal-website/static/js/2.a1807c71.chunk.js.LICENSE",
+    "static/media/main.css": "/personal-website/static/media/alexandre-godreau-_YEBZiTgZS8-unsplash.4957eb45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c71e6253.js",
+    "static/js/2.a1807c71.chunk.js",
+    "static/css/main.3e0d47cf.chunk.css",
+    "static/js/main.1855506b.chunk.js"
+  ]
+}
