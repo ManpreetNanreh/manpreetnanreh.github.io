@@ -1,2 +1,2 @@
-# manpreetnanreh.github.io
+# manpreetnanreh.github.io/personal-website
 personal website
